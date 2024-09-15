@@ -1,0 +1,11 @@
+# requirements.txt
+PySide6
+transitions
+pykka
+rxpy
+pytest
+mock
+flake8
+sphinx
+pyinstaller
+pyserial

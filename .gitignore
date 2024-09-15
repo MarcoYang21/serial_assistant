@@ -1,0 +1,12 @@
+# .gitignore
+__pycache__/
+*.pyc
+venv/
+.vscode/
+*.log
+build/
+dist/
+*.egg-info/
+build/
+dist/
+*.spec
